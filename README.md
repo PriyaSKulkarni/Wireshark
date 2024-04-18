@@ -1,5 +1,5 @@
 # Wireshark
-Computer Networks: TCP/IP 
+Computer Networks: TCP/IP   
 
 Wireshark Lab projects, I've outlined three different labs that focus on different aspects of network communication and analysis. Each project serves as a practical exercise in using Wireshark, a popular network protocol analyzer, to understand and diagnose network protocols and traffic. Here’s a brief overview of what each lab might entail:
 
